@@ -23,7 +23,7 @@ class RefKelurahan extends \yii\db\ActiveRecord
      */
     public static function tableName()
     {
-        return 'REF_KELURAHAN';
+        return 'ref_kelurahan';
     }
 
     /**
