@@ -19,7 +19,7 @@ class RefKecamatan extends \yii\db\ActiveRecord
      */
     public static function tableName()
     {
-        return 'REF_KECAMATAN';
+        return 'ref_kecamatan';
     }
 
     /**
